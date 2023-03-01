@@ -47,6 +47,9 @@ main {
     color: white;  
     background-color: #282D35;
     margin-left: 0;
+    background-image: url(./images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right 75%;
 
 }
 
